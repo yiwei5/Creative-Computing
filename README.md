@@ -36,7 +36,7 @@ With the progress of the times, science and technology are also developing rapid
 - [See Through Lab Branding](https://thecollectedworks.com/project/see-through-lab/) by The Collected Works
 
 ![image](https://hbimg.huabanimg.com/d3eb56255d8484381d0c11e2e12ccd08410ea9ad14dd2-LSXU4T_fw658/format/webp)
-- [Time Out London / A.i. City / Cover Art](https://www.behance.net/gallery/80065543/Time-Out-London-Ai-City-Cover-Art) by Ben Fearnley
+- [Time Out London](https://www.behance.net/gallery/80065543/Time-Out-London-Ai-City-Cover-Art) by Ben Fearnley
 
 ![image](https://mir-s3-cdn-cf.behance.net/project_modules/fs/68ef5280065543.5cd5f0f6ec87a.jpg)
 - [Muninn & Huginn](https://www.behance.net/gallery/20072985/Muninn-Huginn-bachelor-thesis-project) by Mariagloria Posani
