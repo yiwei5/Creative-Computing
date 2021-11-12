@@ -16,7 +16,7 @@ I also tried some circuit connections on the website, which is a more convenient
 - Resistance is a very important part, which can protect LED lights, also protect yourself
 - This is not verry difficult. If you carefully watch the vedio, you will complete it successfully. Don't be affected by your first impression.
 ***
-## Whaat is Markdow
+## What is Markdow
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
 
 I tried some simple code with Markdown
