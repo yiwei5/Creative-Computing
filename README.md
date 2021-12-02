@@ -2,19 +2,15 @@
 ## What is physical computing
 Physical computing involves interactive systems that can sense and respond to the world around them. While this definition is broad enough to encompass systems such as smart automotive traffic control systems or factory automation processes, it is not commonly used to describe them. In a broader sense, physical computing is a creative framework for understanding human beings' relationship to the digital world. In practical use, the term most often describes handmade art, design or DIY hobby projects that use sensors and microcontrollers to translate analog input to a software system, and/or control electro-mechanical devices such as motors, servos, lighting or other hardware. (From Wikipedia)
 ***
+## What is Arduino
+Arduino is an open-source electronics platform based on easy-to-use hardware and software. Arduino boards are able to read inputs - light on a sensor, a finger on a button, or a Twitter message - and turn it into an output - activating a motor, turning on an LED, publishing something online. You can tell your board what to do by sending a set of instructions to the microcontroller on the board. To do so you use the Arduino programming language (based on Wiring), and the Arduino Software (IDE), based on Processing.
+***
 ## Simulation
 In class, I tried to complete a simple circuit. For this circuit I will use a lot of different materials. Because it was my first try, I was worried that I would make a mistake. However, I could clearly know what I should do at each step by viewing the tutorials and videos.
 We need to use the Arduino Uno, the breadboard, some jumper wires, a 220 ohms resistor, a switch and an LED. The line needs to start from the positive and return to the negative. During the combination process, the first simulation failed because the switch was not installed properly. Fortunately, we found the problem in time and made corrections.
 I also tried some circuit connections on the website, which is a more convenient way of learning. You can complete the simulation without carrying a real object.
 
 ![1](https://user-images.githubusercontent.com/93942115/141334953-c7c1a576-fc27-464e-8466-b7e8df880e47.JPG)
-***
-## Some points
-### If you want to learn such skills, there are some points to pay attention to.
-- To ensure safety, you should read the relevant precautions carefully
-- Before making, carefully observe the materials you use and the patterns, words or features on them to avoid unnecessary problems
-- Resistance is a very important part, which can protect LED lights, also protect yourself
-- This is not verry difficult. If you carefully watch the vedio, you will complete it successfully. Don't be affected by your first impression.
 ***
 ## What is Markdow
 Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one of the world’s most popular markup languages.
